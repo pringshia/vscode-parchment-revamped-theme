@@ -94,7 +94,7 @@
 		"terminal.ansiBrightBlue": "#4190f7",
 		"terminal.ansiBrightMagenta": "#ba65db",
 		"terminal.ansiBrightCyan": "#20dddd",
-		"terminal.ansiBrightWhite": "#ffffff"
+		"terminal.ansiBrightWhite": "#8d867e65"
 	},
 	"tokenColors": [
 		{
@@ -269,7 +269,11 @@
 		},
 		{
 			"name": "Strings",
-			"scope": "string",
+			"scope": [
+				"string",
+				"meta.jsx.children",
+				"punctuation.definition.string",
+			],
 			"settings": {
 				"foreground": "#194E00"
 			}
