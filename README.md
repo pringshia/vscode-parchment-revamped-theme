@@ -1,7 +1,5 @@
-# Parchment Theme
+# Parchment-Revamped Theme
 
 Yellowish Color Theme for VS Code
 
-## Sample
-
-![Image](https://raw.githubusercontent.com/lumiknit/vscode-parchment-theme/master/images/preview1.png)
+This theme contains small visual improvments over the original excellent [Parchment theme](https://github.com/lumiknit/vscode-parchment-theme/) by **lumiknit**
