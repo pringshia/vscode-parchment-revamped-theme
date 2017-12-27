@@ -3,7 +3,7 @@
   "displayName": "Parchment-Revamped",
   "description": "Parchment-Revamped for VS Code",
   "version": "0.0.9",
-  "publisher": "lumiknit",
+  "publisher": "pringshia",
   "engines": {
     "vscode": "^1.15.0"
   },
