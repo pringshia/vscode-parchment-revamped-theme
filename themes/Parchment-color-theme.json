@@ -272,7 +272,7 @@
 			"scope": [
 				"string",
 				"meta.jsx.children",
-				"punctuation.definition.string",
+				"punctuation.definition.string"
 			],
 			"settings": {
 				"foreground": "#194E00"
